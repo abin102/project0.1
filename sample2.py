@@ -2,6 +2,6 @@
 
 print("created in local at feature-branch-1")
 
-print("added new line without pulling from remote")
+print("added new statement at remote on feature-branch-1" )
 
-print("local change 2 at feature-branch-1")
+print("second new statement at remote on feature-branch-2")
