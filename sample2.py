@@ -12,3 +12,5 @@ print("I don't want this in featrue branch-1")
 print(
     'added some changes in feature-branch-1'
 )
+
+print("I want this in feature-branch-2")
